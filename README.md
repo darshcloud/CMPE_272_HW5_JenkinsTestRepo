@@ -1,2 +1,2 @@
 # CMPE_272_HW5_JenkinsTestRepo
-Repository created for Testing Jenkins
+Repository created for HW5 Jenkins
